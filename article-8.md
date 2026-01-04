@@ -1,4 +1,3 @@
-
 # Introduction
 
 I reverse engineered this detection technique from a user-mode anti-cheat for a popular game many months ago with a friend. I'll keep the anti-cheat name hidden for privacy reasons. I thought this particular detection was an interesting abuse of a logic flaw in [DBVM's (Dark Byte Virtual Machine)](https://github.com/cheat-engine/cheat-engine/tree/master/dbvm) code and wanted to share the concept for anybody who might come across it while reversing, or for those generally interested in hypervisor detection techniques.
